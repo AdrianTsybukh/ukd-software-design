@@ -1,0 +1,19 @@
+--- Game Session Report: Session_001 ---
+
+Character: Garrosh
+Status: Alive
+Achievements: Berserker, MVP, Rage Machine
+Efficiency: 70
+---------------------------
+
+Character: Jaina
+Status: Alive
+Achievements: Arcane Master, Berserker
+Efficiency: 65
+---------------------------
+
+Character: Thrall
+Status: Alive
+Achievements: Support Pillar
+Efficiency: 20
+---------------------------
