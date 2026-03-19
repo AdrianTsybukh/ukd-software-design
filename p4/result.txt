@@ -1,0 +1,13 @@
+--- Game Session Report ---
+
+Character: Mage
+Status: Alive
+Achievements: Berserker, MVP
+Efficiency: 65
+---------------------------
+
+Character: Warrior
+Status: Alive
+Achievements: Berserker
+Efficiency: 50
+---------------------------
