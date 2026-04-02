@@ -1,0 +1,6 @@
+services:
+  app:
+    build: .
+    volumes:
+      - ./logs:/task/logs
+    user: "1000:100"
